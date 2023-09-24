@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339587202842",
+    "project_id": "medisure-a09ab",
+    "storage_bucket": "medisure-a09ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339587202842:android:5bf51f0ed6c76831b5b6a3",
+        "android_client_info": {
+          "package_name": "com.example.medisure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbr9q6hjrDBSt2Dn9bgYVdK_ALOLIpJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
